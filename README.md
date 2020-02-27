@@ -5,7 +5,7 @@
 
 
 ### 如何从__远程服务器__传文件到__华为云OBS__
-使用obsutil工具
+使用obsutil工具  
 1.下载和安装obsutil工具  
 https://support.huaweicloud.com/utiltg-obs/obs_11_0003.html  
 2.准备环境（注册华为云账号，创建访问密匙等）  
