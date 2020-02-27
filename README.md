@@ -2,21 +2,11 @@
 
 ## 已完成
 
-### 如何快速进入ModelArts  
+### [如何快速进入ModelArts]
 
 
-### 如何从__远程服务器__传文件到__华为云OBS__
-使用obsutil工具  
-1.下载和安装obsutil工具  
-https://support.huaweicloud.com/utiltg-obs/obs_11_0003.html  
-2.准备环境（注册华为云账号，创建访问密匙等）  
-https://support.huaweicloud.com/utiltg-obs/obs_11_0004.html  
-3. 进行初始化配置  
-https://support.huaweicloud.com/utiltg-obs/obs_11_0005.html  
-其中endpoint指OBS当前开通的区域和终端节点地址  
-4.配置成功后即可传输文件  
-命令结构请见 https://support.huaweicloud.com/utiltg-obs/obs_11_0013.html  
-上传示例请见 https://support.huaweicloud.com/utiltg-obs/obs_11_0028.html  
+### [如何从远程服务器传文件到华为云OBS]https://github.com/yifanpu001/ModelArts_Tutorial_PyTorch/blob/master/%E5%A6%82%E4%BD%95%E4%BB%8E%E8%BF%9C%E7%A8%8B%E6%9C%8D%E5%8A%A1%E5%99%A8%E4%BC%A0%E6%96%87%E4%BB%B6%E5%88%B0%E5%8D%8E%E4%B8%BA%E4%BA%91OBS.md
+
 
 ## 正在探索
 
