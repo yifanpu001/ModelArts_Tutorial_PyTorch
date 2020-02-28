@@ -1,4 +1,4 @@
-__使用obsutil工具__ 
+__在服务器端，使用obsutil工具__ 
 1. 下载和安装obsutil工具  
 https://support.huaweicloud.com/utiltg-obs/obs_11_0003.html  
 
