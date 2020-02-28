@@ -2,7 +2,7 @@ __在服务器端，使用obsutil工具__
 1. 下载和安装obsutil工具  
 https://support.huaweicloud.com/utiltg-obs/obs_11_0003.html  
 
-2. 准备环境（注册华为云账号，创建访问密匙等）  
+2. 准备环境（注册华为云账号，创建访问密匙等，已有账号和密匙的话可跳过）  
 https://support.huaweicloud.com/utiltg-obs/obs_11_0004.html  
 
 3.  进行初始化配置  
