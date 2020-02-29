@@ -7,7 +7,7 @@
 ### [创建并使用Jupyter Notebook](https://github.com/yifanpu001/ModelArts_Tutorial_PyTorch/blob/master/%E5%88%9B%E5%BB%BA%E5%B9%B6%E4%BD%BF%E7%94%A8Jupyter%20Notebook.md)
 
 
-## 正在编写
+## 建设中
 
 ### 如何快速进入ModelArts
 
