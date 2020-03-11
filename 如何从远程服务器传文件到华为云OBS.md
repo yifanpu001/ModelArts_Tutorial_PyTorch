@@ -10,7 +10,10 @@ https://support.huaweicloud.com/utiltg-obs/obs_11_0005.html
 其中endpoint指OBS当前开通的区域和终端节点地址  
 
 > 示例  
+> 北京四：
 > `./obsutil config -i=你的AK -k=你的SK -e=https://obs.cn-north-4.myhuaweicloud.com`
+> 上海一：
+> `./obsutil config -i=你的AK -k=你的SK -e=https://obs.cn-east-3.myhuaweicloud.com`
 
 4. 配置成功后即可传输文件  
 命令结构请见 https://support.huaweicloud.com/utiltg-obs/obs_11_0013.html  
@@ -24,3 +27,4 @@ https://support.huaweicloud.com/utiltg-obs/obs_11_0005.html
 > `./obsutil cp /home/imagenet/ILSVRC2012_img_train.tar obs://d-cheap-net/datasets/ `   
 > 传输意外中断后，继续传输  
 > `./obsutil cp /home/imagenet/ILSVRC2012_img_train.tar obs://d-cheap-net/datasets/ -f`  
+> 提示：出现 permission denied错误，可在指令前加sudo解决
